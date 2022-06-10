@@ -3,4 +3,4 @@
 Project for Data Science and Digital Image Processing courses at Tartu University.
 
 ## Poster used at presentation
-<img src="Predicting Instagram.pdf">
+<img src="Predicting Instagram.pdf" wdith="600" height="600">
