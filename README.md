@@ -1,5 +1,5 @@
 # Predicting Instagram likes
-## This project will try to predict the number of likes a person will recieve based on the number of features their picture has.
+## This project will try to predict the number of likes a person will recieve based on the number of physical and environmental features their picture has.
 Project for Data Science at Tartu University.
 
 ## Poster used at presentation
